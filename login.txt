@@ -1,2 +1,2 @@
 inicio do longin.
-fim do login.
+finalização do login.
